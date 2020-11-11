@@ -2,8 +2,9 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I pursued a lifelong dream to become a web developer that was made possible backed-up by my expertise in graphic design and love for tech.
-find me on <a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/linkedin_Artboard%201_Artboard%201.jpg" width="30px"> </a>
+I pursued a lifelong dream to become a web developer that was made possible fueld by my passion for graphic design and my love to create aesthetically-pleasing stuff.
+find me on:
+<a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/linkedin_Artboard%201_Artboard%201.jpg" width="30px"> </a>
 
 
 <!--
