@@ -1,4 +1,5 @@
 [![Header](https://raw.githubusercontent.com/amagsid/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+(https://github.com/amagsid/amagsid/blob/[branch]/image.jpg?raw=true)
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
