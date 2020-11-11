@@ -1,4 +1,4 @@
-[![Header](https://github.com/amagsid/amagsid/blob/0.jpg?raw=true)
+[![Header](https://github.com/amagsid/amagsid/blob/main/0.jpeg)
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
