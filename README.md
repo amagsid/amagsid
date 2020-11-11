@@ -2,6 +2,8 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I pursued a lifelong dream to become a web developer that was made possible backed-up by my expertise in graphic design and love for tech.
+find me on <a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </a>
 
 
 <!--
