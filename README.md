@@ -1,7 +1,8 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ![Header](https://github.com/amagsid/amagsid/blob/main/assets/0.jpeg)
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I pursued a life-long dream to become a web developer. Now living and breathing Web devlopment.
 Always trying to grow and learn new things and the ability to do so quickly. I see myself as visual individual, a tech enthusiast and a people's person. I see that in big part as a result of my collective expereince and background in HR, graphic dedsign and most importantly immersing in web development.
 
