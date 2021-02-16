@@ -27,9 +27,7 @@ Back-end technologies including Node.js and MySQL
 
 
 ### 📫 Find me elsewhere 🌍
-<code><a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"> </a></code>
-
-<code><a href="https://stackoverflow.com/users/13781424/ahmad-magdy" target="_blank"> <img src="https://img.shields.io/badge/stack%20overflow-0077B5?style=for-the-badge&logo=stack-overflow&logoColor=white" width="100px"> </a></code>
+<code><a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"> </a></code> <code><a href="https://stackoverflow.com/users/13781424/ahmad-magdy" target="_blank"> <img src="https://img.shields.io/badge/stack%20overflow-0077B5?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" width="100px"> </a></code>
 
 **Find my resume** <a target="_blank" href="https://docs.google.com/presentation/d/1vVvQXeD0rRT5r0kykCft_iRmhS3KKUCPgolvXsu-x3w/edit#slide=id.ga632a4d4e1_0_151" > <strong> here </strong>  </a> 📄
 
