@@ -19,7 +19,7 @@ Always trying to grow and learn new things and the ability to do so quickly. I s
 **Currently learning 👨💻
 Back-end technologies including Node.js and MySQL
 
-**soon learning 🚀
+**soon learning 🚀 **
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
