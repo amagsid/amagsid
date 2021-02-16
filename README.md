@@ -10,7 +10,7 @@ Always trying to grow and learn new things and the ability to do so quickly. I s
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://img.shields.io/badge/HTML-00B8FC?style=for-the-badge&logo=html5&logoColor=white" > <code>
+<code><img height="30" src="https://img.shields.io/badge/HTML-00B8FC?style=for-the-badge&logo=html5&logoColor=white&style=flat" > <code>
 <img height="30" src="https://img.shields.io/badge/CSS-00B8FC?&style=for-the-badge&logo=css3&logoColor=white"  >
 <img height="30" src="https://img.shields.io/badge/JavaScript-00B8FC?style=for-the-badge&logo=javascript&logoColor=white"  >
 <img height="30" src="https://img.shields.io/badge/Node.js-00B8FC?style=for-the-badge&logo=node.js&logoColor=white" >
