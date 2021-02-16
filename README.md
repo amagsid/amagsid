@@ -10,32 +10,22 @@ Always trying to grow and learn new things and the ability to do so quickly. I s
 
 ### Languages and Tools:
 
-<code><img height="30" src="https://img.shields.io/badge/HTML-00B8FC?style=for-the-badge&logo=html5&logoColor=white&style=flat" > <code>
-<img height="30" src="https://img.shields.io/badge/CSS-00B8FC?&style=for-the-badge&logo=css3&logoColor=white"  >
-<img height="30" src="https://img.shields.io/badge/JavaScript-00B8FC?style=for-the-badge&logo=javascript&logoColor=white"  >
-<img height="30" src="https://img.shields.io/badge/Node.js-00B8FC?style=for-the-badge&logo=node.js&logoColor=white" >
-<img height="30" src="https://img.shields.io/badge/MySQL-00B8FC?style=for-the-badge&logo=mysql&logoColor=white">
-<img height="30" src="https://img.shields.io/badge/git-00B8FC?style=for-the-badge&logo=git&logoColor=white">
-
-<code><img height="35" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png"></code>
-<code><img height="35" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png"></code>
+<code><img height="40" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Currently learning 👨💻
 Back-end technologies including Node.js and MySQL
 
 ### soon learning 🚀
-<code><img height="30" src="https://img.shields.io/badge/Python-FCA121?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Sass-FCA121?style=for-the-badge&logo=sass&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/React-FCA121?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
 ### 📫 Find me elsewhere 🌍
