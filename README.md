@@ -17,12 +17,12 @@ Always trying to grow and learn new things and the ability to do so quickly. I s
 <img height="30" src="https://img.shields.io/badge/MySQL-00B8FC?style=for-the-badge&logo=mysql&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/git-00B8FC?style=for-the-badge&logo=git&logoColor=white">
 
-<code><img height="30" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png"></code>
-<code><img height="30" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png"></code>
+<code><img height="35" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### Currently learning 👨💻
 Back-end technologies including Node.js and MySQL
