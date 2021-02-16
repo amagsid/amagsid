@@ -4,7 +4,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I pursued a lifelong dream to become a web developer that was made possible fueld by my passion for graphic design and my love to create aesthetically-pleasing stuff.
 - 🌱 I’m currently learning back-end technologies including Node.js and MySQL
-- 📫 How to reach me: <br>
+- 📫 Find me on:
 <a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/" target="_blank"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/linkedin_Artboard%201_Artboard%201.jpg" width="30px"> </a>,
 <a href="https://stackoverflow.com/users/13781424/ahmad-magdy" target="_blank"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/stack_Artboard%201%20copy.jpg" width="30px"> </a>
 
