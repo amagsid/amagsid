@@ -6,6 +6,8 @@
 I pursued a life-long dream to become a web developer. Now living and breathing Web devlopment.
 Always trying to grow and learn new things and the ability to do so quickly. I see myself as visual individual, a tech enthusiast and a people's person. I see that in big part as a result of my collective expereince and background in HR, graphic dedsign and most importantly immersing in web development.
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Languages and Tools:
 
 
