@@ -28,7 +28,7 @@ Back-end technologies including Node.js and MySQL
 <a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/" target="_blank"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/linkedin_Artboard%201_Artboard%201.jpg" width="30px"> </a>,
 <a href="https://stackoverflow.com/users/13781424/ahmad-magdy" target="_blank"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/stack_Artboard%201%20copy.jpg" width="30px"> </a>
 
-**Resume** https://docs.google.com/presentation/d/1vVvQXeD0rRT5r0kykCft_iRmhS3KKUCPgolvXsu-x3w/edit#slide=id.ga632a4d4e1_0_151
+**Find my resume <a href="https://docs.google.com/presentation/d/1vVvQXeD0rRT5r0kykCft_iRmhS3KKUCPgolvXsu-x3w/edit#slide=id.ga632a4d4e1_0_151"> here  </a>
 
 
 <!--
