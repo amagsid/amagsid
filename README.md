@@ -10,6 +10,8 @@ Always trying to grow and learn new things and the ability to do so quickly. I s
 
 ### Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png"></code>
 <code><img height="40" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
