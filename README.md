@@ -16,18 +16,29 @@ Always trying to grow and learn new things and the ability to do so quickly. I s
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
+<br>
 
 ### Currently learning 👨💻
 Back-end technologies including Node.js and MySQL
+<br>
+<br>
+
 
 ### soon learning 🚀
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<br>
+<br>
+
 
 
 ### 📫 Find me elsewhere 🌍
 <code><a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"> </a></code> <code><a href="https://stackoverflow.com/users/13781424/ahmad-magdy" target="_blank"> <img src="https://img.shields.io/badge/stack%20overflow-0077B5?style=for-the-badge&logo=stack-overflow&logoColor=white" width="150px"> </a></code>
+<br>
+<br>
+
 
 **Find my resume** <a target="_blank" href="https://docs.google.com/presentation/d/1vVvQXeD0rRT5r0kykCft_iRmhS3KKUCPgolvXsu-x3w/edit#slide=id.ga632a4d4e1_0_151" > <strong> here </strong>  </a> 📄
 
