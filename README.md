@@ -6,8 +6,21 @@
 I pursued a life-long dream to become a web developer. Now living and breathing Web devlopment.
 Always trying to grow and learn new things and the ability to do so quickly. I see myself as visual individual, a tech enthusiast and a people's person. I see that in big part as a result of my collective expereince and background in HR, graphic dedsign and most importantly immersing in web development.
 
-### Currently learning 👨💻🚀
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### Currently learning 👨💻
 Back-end technologies including Node.js and MySQL
+
+### short term learning 🚀
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+
 ### 📫 Find me elsewhere 🌍
 <a href="https://www.linkedin.com/in/ahmad-magdy-7792611b1/" target="_blank"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/linkedin_Artboard%201_Artboard%201.jpg" width="30px"> </a>,
 <a href="https://stackoverflow.com/users/13781424/ahmad-magdy" target="_blank"> <img src="https://github.com/amagsid/amagsid/blob/main/assets/stack_Artboard%201%20copy.jpg" width="30px"> </a>
