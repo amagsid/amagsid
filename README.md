@@ -1,7 +1,7 @@
 # Ahlan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
- <img alt="GIF" src="https://github.com/amagsid/amagsid/blob/main/assets/x2.gif" width="950" height="450" />
+ <img alt="GIF" src="https://github.com/amagsid/amagsid/blob/main/assets/X2.gif" width="950" height="450" />
 
 
 I pursued a life-long dream to become a web developer. Now living and breathing Web devlopment.
