@@ -1,6 +1,9 @@
 # Ahlan! <img src="https://tenor.com/blOVi.gif" width="30px">
 
 
+<div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels GIF</a> from <a href="https://tenor.com/search/wavinghand-gifs">Wavinghand GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
  <img alt="GIF" src="https://github.com/amagsid/amagsid/blob/main/assets/x3.gif" width="950" height="500" />
 
 
