@@ -1,4 +1,4 @@
-# Ahlan! <img src="https://tenor.com/blOVi.gif" width="30px">
+# Ahlan! 👋
 
 
  <img alt="GIF" src="https://github.com/amagsid/amagsid/blob/main/assets/x3.gif" width="950" height="500" />
