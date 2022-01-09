@@ -1,6 +1,6 @@
  ## Hello! 👋
 
-**Currently looking for traineeship opportunities starting mid May 2021. find my resume** <a target="_blank" href="https://docs.google.com/presentation/d/1vVvQXeD0rRT5r0kykCft_iRmhS3KKUCPgolvXsu-x3w/edit#slide=id.ga632a4d4e1_0_151" > <strong> here </strong>  </a> 📄
+**Find my resume** <a target="_blank" href="https://docs.google.com/presentation/d/1vVvQXeD0rRT5r0kykCft_iRmhS3KKUCPgolvXsu-x3w/edit#slide=id.ga632a4d4e1_0_151" > <strong> here </strong>  </a> 📄
 
 
  <img alt="GIF" src="https://github.com/amagsid/amagsid/blob/main/assets/x3.gif" width="950" height="500" />
